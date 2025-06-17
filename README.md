@@ -28,12 +28,6 @@ These ideas may be:
 | A CLI that reminds you of your most embarrassing tweet every morning | `🤡 nonsense` `🧰 beginner` |
 | An AI that turns your to-do list into Shakespearean monologues | `🎨 creative` `⚠️ cursed` |
 | A browser extension that gradually pixelates your screen until you drink water | `⚠️ cursed` `good for learning` |
-| A Pomodoro timer that plays increasingly chaotic music the longer you focus | `🎨 creative` `🧰 beginner` |
-| A dating app for houseplants (swipe left if they need more sunlight) | `🤡 nonsense` `🎨 creative` |
-| A voice-controlled Git client that gets passive-aggressive when you make mistakes | `good for learning` `⚠️ cursed` |
-| A weather app that suggests outfits for the *wrong* climate | `🎨 creative` `🤡 nonsense` |
-| An IDE theme that slowly melts over time the longer you code without a break | `⚠️ cursed` `🎨 creative` |
-| A website that translates any text into corporate buzzwords | `🧰 beginner` `🤡 nonsense` |
 
 ---
 
@@ -105,21 +99,29 @@ Because “pointless” things are often the best way to **learn**, **laugh**, a
 | Idea | Tags |
 |------|------|
 | An AI that turns your to-do list into Shakespearean monologues | `🎨 creative` `⚠️ cursed` |
+| A dating app for houseplants (swipe left if they need more sunlight) | `🤡 nonsense` `🎨 creative` |
+
 
 ## 🤡 Pure Nonsense
 | Idea | Tags |
 |------|------|
 | A website that translates any text into corporate buzzwords | `🧰 beginner` `🤡 nonsense` |
+| A CLI that reminds you of your most embarrassing tweet every morning | `🤡 nonsense` `🧰 beginner` |
+| A weather app that suggests outfits for the *wrong* climate | `🎨 creative` `🤡 nonsense` |
+
 
 ## 🧰 Good for Beginners
 | Idea | Tags |
 |------|------|
 | A Pomodoro timer that plays increasingly chaotic music the longer you focus | `🎨 creative` `🧰 beginner` |
 
+
 ## ⚠️ Cursed or Technically Weird
 | Idea | Tags |
 |------|------|
 | A voice-controlled Git client that gets passive-aggressive when you make mistakes | `good for learning` `⚠️ cursed` |
+| An IDE theme that slowly melts over time the longer you code without a break | `⚠️ cursed` `🎨 creative` |
+
 
 ## 🎯 Surprisingly Useful
 | Idea | Tags |
