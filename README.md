@@ -23,11 +23,11 @@ These ideas may be:
 
 ## 💡 Example Ideas
 
-| Idea | Tags |
-|------|------|
-| A CLI that reminds you of your most embarrassing tweet every morning | `🤡 nonsense` `🧰 beginner` |
-| An AI that turns your to-do list into Shakespearean monologues | `🎨 creative` `⚠️ cursed` |
-| A browser extension that gradually pixelates your screen until you drink water | `⚠️ cursed` `good for learning` |
+| Idea |
+|------|
+| A CLI that reminds you of your most embarrassing tweet every morning |
+| An AI that turns your to-do list into Shakespearean monologues |
+| A browser extension that gradually pixelates your screen until you drink water |
 
 ---
 
@@ -39,24 +39,12 @@ Have a strange, useless, or beautifully dumb idea? Awesome. Add it here!
 
 **Option 1: Pull Request (preferred)**  
 1. Fork this repo  
-2. Add your idea to the table above in `README.md`  
-3. Tag it with 1–3 emoji tags  
+2. Find the most fitting category
+3. Add your idea to the table above in `README.md`  
 4. Open a pull request!
 
 **Option 2: Open an Issue**  
 Not comfortable editing markdown? Just open an issue and someone will PR it for you.
-
-### 🏷️ Tags
-
-Use any combination of these emoji tags to describe the idea:
-
-| Tag | Meaning |
-|-----|--------|
-| 🧰 beginner | Great for beginners to try |
-| 🎨 creative | Whimsical or artsy |
-| 🤡 nonsense | Absurd or hilariously impractical |
-| ⚠️ cursed | Technically or ethically questionable |
-| good for learning | Could teach something useful, despite the weirdness |
 
 ---
 
@@ -96,35 +84,35 @@ Because “pointless” things are often the best way to **learn**, **laugh**, a
 ---
 
 ## 🎨 Creative & Artsy
-| Idea | Tags |
-|------|------|
-| An AI that turns your to-do list into Shakespearean monologues | `🎨 creative` `⚠️ cursed` |
-| A dating app for houseplants (swipe left if they need more sunlight) | `🤡 nonsense` `🎨 creative` |
+| Idea |
+|------|
+| An AI that turns your to-do list into Shakespearean monologues |
+| A dating app for houseplants (swipe left if they need more sunlight) |
 
 
 ## 🤡 Pure Nonsense
-| Idea | Tags |
-|------|------|
-| A website that translates any text into corporate buzzwords | `🧰 beginner` `🤡 nonsense` |
-| A CLI that reminds you of your most embarrassing tweet every morning | `🤡 nonsense` `🧰 beginner` |
-| A weather app that suggests outfits for the *wrong* climate | `🎨 creative` `🤡 nonsense` |
+| Idea |
+|------|
+| A website that translates any text into corporate buzzwords |
+| A CLI that reminds you of your most embarrassing tweet every morning |
+| A weather app that suggests outfits for the *wrong* climate |
 
 
 ## 🧰 Good for Beginners
-| Idea | Tags |
-|------|------|
-| A Pomodoro timer that plays increasingly chaotic music the longer you focus | `🎨 creative` `🧰 beginner` |
+| Idea |
+|------|
+| A Pomodoro timer that plays increasingly chaotic music the longer you focus |
 
 
 ## ⚠️ Cursed or Technically Weird
-| Idea | Tags |
-|------|------|
-| A voice-controlled Git client that gets passive-aggressive when you make mistakes | `good for learning` `⚠️ cursed` |
-| An IDE theme that slowly melts over time the longer you code without a break | `⚠️ cursed` `🎨 creative` |
+| Idea |
+|------|
+| A voice-controlled Git client that gets passive-aggressive when you make mistakes |
+| An IDE theme that slowly melts over time the longer you code without a break |
 
 
 ## 🎯 Surprisingly Useful
-| Idea | Tags |
-|------|------|
-| A browser extension that gradually pixelates your screen until you drink water | `⚠️ cursed` `good for learning` |
+| Idea |
+|------|
+| A browser extension that gradually pixelates your screen until you drink water |
 
